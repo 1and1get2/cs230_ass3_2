@@ -53,8 +53,8 @@ public class MainFrame extends JFrame implements ComponentListener{
 		contentPane.add(new NotFunc(), "NotYet");
 		contentPane.add(new WorldTimeConverter(), "WorldTimeConverter");
 		contentPane.add(new MyTimer(), "MyTimer");
-//		contentPane.add();
-//		contentPane.add();
+		contentPane.add(new MyTimerDown(), "MyTimerDown");
+		contentPane.add(new MyTimerUp(), "MyTimerUp");
 //		contentPane.add();
 //		contentPane.add();
 		

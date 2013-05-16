@@ -1,0 +1,17 @@
+hi dear markers, the blue print and the actual work is slightly different, i added a world time converter, and haven't implement the normal clock and timer function(it's 6 in the morning and i haven't sleep the whole night!!! god i'm sleepy like hell lol)   
+(update: finied the count up timer)
+
+the normal clock part is designed to be a useful clock for daily use (nobody like to read binary code rather than digits but geeks), including binary clock, digits, and date time writen in plain text, as well as alarm clock function. 
+
+second part and 3rd part is to display date and time in binary code, pretty straight forward isn't it
+
+and the forth part is just simply a combine of the previous both.
+
+second last part is a timer which a do both count down/up, by setting up a time and count it, unfortunately, not implemented yet  
+update: finished counter up timer, works pretty great actually : ), as for the counter down, uh....  it's pretty much the same thing, kinda tired of rewritting every code i have already done. 
+
+
+last part is a world time converter, some of the time zones may not working. some methods i'm using can be improved sometime
+
+
+Derek

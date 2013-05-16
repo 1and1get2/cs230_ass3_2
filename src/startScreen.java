@@ -51,7 +51,7 @@ public class startScreen extends JPanel {
 		JButton btnTimer = new JButton("timer");
 		btnTimer.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				MainFrame.cardLayout.show(getParent(), "NotYet");
+				MainFrame.cardLayout.show(getParent(), "MyTimer");
 			}
 		});
 		add(btnTimer);
